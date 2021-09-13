@@ -6,7 +6,7 @@ The project is created with React using functional components, class-based compo
 ## Links
 [Meme Generator Api](https://imgflip.com/api)
 
-![Meme Generator] (https://github.com/barcelo2/Meme-Generator/blob/main/memegenerator/public/Screenshot1.png)
+![Meme Generator](https://github.com/barcelo2/Meme-Generator/blob/main/memegenerator/public/Screenshot1.png "Meme Generator")
 
 
 ## Available Commands
